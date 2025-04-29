@@ -1,0 +1,6 @@
+@WiseHRServer_HostAddress = http://localhost:5243
+
+GET {{WiseHRServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
