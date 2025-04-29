@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ExportController",
+    "Method": "DownloadExcel",
+    "RelativePath": "api/Export/excel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ExportController",
+    "Method": "Export",
+    "RelativePath": "api/Export/export",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logs",
+        "Type": "System.Collections.Generic.List\u00601[[AttendanceBackend.Controllers.AttendanceDto, AttendanceBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "AcceptReason",
+    "RelativePath": "api/Zkteco/accept-reason",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AttendanceBackend.Controllers.AcceptReasonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "GetAllLogs",
+    "RelativePath": "api/Zkteco/get-all-logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "GetAllReasons",
+    "RelativePath": "api/Zkteco/get-all-reasons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "GetLogsByName",
+    "RelativePath": "api/Zkteco/get-logs/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "InsertLog",
+    "RelativePath": "api/Zkteco/insert-log",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "AttendanceBackend.Controllers.AttendanceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AttendanceBackend.Controllers.ZktecoController",
+    "Method": "SubmitReason",
+    "RelativePath": "api/Zkteco/submit-reason",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AttendanceBackend.Controllers.LowHoursReasonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

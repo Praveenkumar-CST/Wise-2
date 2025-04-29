@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wl350FYRaBu1AbDx63tloh3IYM9pZgWAsTmD7oCd4Xg=",
+  "Source": "AttendanceBackend",
+  "BasePath": "_content/AttendanceBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

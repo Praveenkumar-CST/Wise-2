@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\controllers\\exports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:controllers\\exports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\data\\exportdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:data\\exportdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\attendancebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:attendancebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\controllers\\zk_techo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:controllers\\zk_techo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|c:\\users\\ranji\\onedrive\\desktop\\attendancebackend\\model\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD21982D-340E-4B6D-9713-32631E1F29BA}|AttendanceBackend.csproj|solutionrelative:model\\attendancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:116361011:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:43:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportDb.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Data\\ExportDb.cs",
+              "RelativeDocumentMoniker": "Data\\ExportDb.cs",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Data\\ExportDb.cs",
+              "RelativeToolTip": "Data\\ExportDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:37:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exports.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Controllers\\Exports.cs",
+              "RelativeDocumentMoniker": "Controllers\\Exports.cs",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Controllers\\Exports.cs",
+              "RelativeToolTip": "Controllers\\Exports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:34:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zk_Techo.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Controllers\\Zk_Techo.cs",
+              "RelativeDocumentMoniker": "Controllers\\Zk_Techo.cs",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Controllers\\Zk_Techo.cs",
+              "RelativeToolTip": "Controllers\\Zk_Techo.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAwwCQBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:35:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T07:11:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\AttendanceBackend.csproj",
+              "RelativeDocumentMoniker": "AttendanceBackend.csproj",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\AttendanceBackend.csproj",
+              "RelativeToolTip": "AttendanceBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T09:21:39.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attendancelog.cs",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Model\\Attendancelog.cs",
+              "RelativeDocumentMoniker": "Model\\Attendancelog.cs",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\Model\\Attendancelog.cs",
+              "RelativeToolTip": "Model\\Attendancelog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:33:29.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ranji\\OneDrive\\Desktop\\AttendanceBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T06:32:03.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
